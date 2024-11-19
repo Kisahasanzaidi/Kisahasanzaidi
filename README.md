@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KISA HASAN ZAIDI</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🔭 I’m currently working on **Travel and Tourism Mobile Application**
+- 🔭 I’m currently working at **Exatorial**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **Kisahasanzaidi@gmail.com**
 
